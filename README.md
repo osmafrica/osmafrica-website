@@ -1,2 +1,2 @@
 # osmafrica-website
-OSM Africa webiste - http://osmafrica.org
+OSM Africa webiste - http://openstreetmap.africa
